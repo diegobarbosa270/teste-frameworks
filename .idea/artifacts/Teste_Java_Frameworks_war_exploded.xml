@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Teste-Java-Frameworks:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Teste_Java_Frameworks_war_exploded.war</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Teste-Java-Frameworks/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Teste-Java-Frameworks" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
